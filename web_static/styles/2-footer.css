@@ -13,3 +13,8 @@ footer {
 		  position: absolute;
 		    width: 100%;
 		    }
+footer p {
+      color: white;
+        font-weight: bold;
+	  font-size: 20px;
+	  }
